@@ -1,5 +1,5 @@
 <script>
-    import footer_icon from "../../../../public/build/Images/6cbb2cd4b5a6ac90.png";
+    import footer_icon from "../../../Assets/Images/Logo.png";
 </script>
 
 <div>

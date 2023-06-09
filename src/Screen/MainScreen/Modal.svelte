@@ -19,7 +19,7 @@
 		<hr />
 		<!-- svelte-ignore a11y-autofocus -->
 		<div class="modal_button">
-            <button autofocus on:click={() => dialog.close()}>close modal</button>
+            <button autofocus on:click={() => dialog.close()}>CLOSE</button>
         </div>
 	</div>
 </dialog>
@@ -76,5 +76,6 @@
         background-color: rgb(219, 80, 21);
         border-radius: 5px;
         color: white;
+        font-weight: 500;
 	}
 </style>
